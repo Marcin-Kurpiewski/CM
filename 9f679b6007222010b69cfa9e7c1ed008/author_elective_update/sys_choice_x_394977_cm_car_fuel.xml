@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fuel" table="x_394977_cm_car" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fuel</element>
+            <name>x_394977_cm_car</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-23 12:10:02</sys_created_on>
+            <sys_id>530bbb3c07ea2010b69cfa9e7c1ed09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fuel</sys_name>
+            <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+            <sys_update_name>sys_choice_x_394977_cm_car_fuel</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-23 12:10:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fuel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>benzin</label>
+            <language>en</language>
+            <name>x_394977_cm_car</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-23 12:10:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>240bbf7c07ea2010b69cfa9e7c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-23 12:10:02</sys_updated_on>
+            <value>benzin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fuel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>diesel</label>
+            <language>en</language>
+            <name>x_394977_cm_car</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-23 12:10:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba1bf77c07ea2010b69cfa9e7c1ed05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-23 12:10:20</sys_updated_on>
+            <value>diesel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fuel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>hybrid</label>
+            <language>en</language>
+            <name>x_394977_cm_car</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-23 12:10:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>741bbf7c07ea2010b69cfa9e7c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-23 12:10:11</sys_updated_on>
+            <value>hybrid</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

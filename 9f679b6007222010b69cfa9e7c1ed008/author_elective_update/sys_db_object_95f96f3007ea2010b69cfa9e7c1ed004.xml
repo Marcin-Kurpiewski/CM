@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>cars_staging</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_394977_cm_cars_staging</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">68f03b84c923101091f9f064648327c6</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 10:55:21</sys_created_on>
+        <sys_id>95f96f3007ea2010b69cfa9e7c1ed004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cm Cars Staging</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_update_name>sys_db_object_95f96f3007ea2010b69cfa9e7c1ed004</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 10:55:21</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CM">9f679b6007222010b69cfa9e7c1ed008</application>
+        <file_path/>
+        <instance_id>1948b8c6db5f001852cec597059619b7</instance_id>
+        <instance_name>dev102006</instance_name>
+        <name>sys_db_object_95f96f3007ea2010b69cfa9e7c1ed004</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>cars_staging</label><live_feed_enabled>false</live_feed_enabled><name>x_394977_cm_cars_staging</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">68f03b84c923101091f9f064648327c6</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-23 10:55:21</sys_created_on><sys_id>95f96f3007ea2010b69cfa9e7c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cm Cars Staging</sys_name><sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package><sys_policy/><sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope><sys_update_name>sys_db_object_95f96f3007ea2010b69cfa9e7c1ed004</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-23 10:55:21</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1582757293</payload_hash>
+        <record_name>cars_staging</record_name>
+        <reverted_from/>
+        <source>b8e8172407222010b69cfa9e7c1ed0aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 10:55:22</sys_created_on>
+        <sys_id>a9f96f3007ea2010b69cfa9e7c1ed019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ce877e310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 10:55:22</sys_updated_on>
+        <type>Table</type>
+        <update_guid>25f96f3053ea20103602ea55f6991c19</update_guid>
+        <update_guid_history>25f96f3053ea20103602ea55f6991c19:1582757293</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 13:16:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>902acac53251487e9200b6c4a77b0c04</sys_id>
+        <sys_metadata>95f96f3007ea2010b69cfa9e7c1ed004</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cm Cars Staging</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_scope_delete display_value="">1519495a0973465ca76b73d6651c62a9</sys_scope_delete>
+        <sys_update_name>sys_db_object_95f96f3007ea2010b69cfa9e7c1ed004</sys_update_name>
+        <sys_update_version display_value="sys_db_object_95f96f3007ea2010b69cfa9e7c1ed004">a9f96f3007ea2010b69cfa9e7c1ed019</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 13:16:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

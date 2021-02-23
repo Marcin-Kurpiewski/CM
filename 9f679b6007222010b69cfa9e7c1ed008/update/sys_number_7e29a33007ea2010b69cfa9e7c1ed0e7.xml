@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_394977_cm_car">x_394977_cm_car</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CAR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 10:51:54</sys_created_on>
+        <sys_id>7e29a33007ea2010b69cfa9e7c1ed0e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAR</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_update_name>sys_number_7e29a33007ea2010b69cfa9e7c1ed0e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 10:51:54</sys_updated_on>
+    </sys_number>
+</record_update>
