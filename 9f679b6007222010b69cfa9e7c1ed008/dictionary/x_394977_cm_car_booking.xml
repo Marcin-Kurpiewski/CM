@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Car Booking" max_length="40" name="x_394977_cm_car_booking" type="collection">
+        <element label="From" mandatory="true" max_length="40" name="date_from" type="glide_date"/>
+        <element label="To" mandatory="true" max_length="40" name="date_to" type="glide_date"/>
+        <element label="Find Car" mandatory="true" max_length="32" name="find_car" reference="x_394977_cm_car" reference_qual="active=true^rented=false^EQ" reference_qual_condition="active=true^rented=false^EQ" type="reference"/>
+        <element label="For User" mandatory="true" max_length="32" name="for_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+    </element>
+</database>
