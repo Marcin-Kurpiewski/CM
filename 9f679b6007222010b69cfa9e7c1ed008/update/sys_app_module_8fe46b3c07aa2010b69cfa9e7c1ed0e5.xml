@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Car">87e46b3c07aa2010b69cfa9e7c1ed0e2</application>
+        <application display_value="CM || Car Management APP">85ce08c707662010b69cfa9e7c1ed01e</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -13,18 +13,18 @@
         <mobile_title>Cars</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_394977_cm_car</name>
-        <order/>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_394977_cm.car_user</roles>
+        <roles>x_394977_cm.technic</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-23 10:33:21</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8fe46b3c07aa2010b69cfa9e7c1ed0e5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Cars</sys_name>
         <sys_overrides/>
         <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
         <sys_update_name>sys_app_module_8fe46b3c07aa2010b69cfa9e7c1ed0e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-23 10:33:21</sys_updated_on>
+        <sys_updated_on>2021-03-01 18:59:13</sys_updated_on>
         <timeline_page/>
         <title>Cars</title>
         <uncancelable>false</uncancelable>

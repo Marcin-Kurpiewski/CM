@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_tire" table="x_394977_cm_car" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_tire</element>
+            <name>x_394977_cm_car</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 17:11:22</sys_created_on>
+            <sys_id>b789777a07262010b69cfa9e7c1ed0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_tire</sys_name>
+            <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+            <sys_update_name>sys_choice_x_394977_cm_car_u_tire</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 17:11:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tire</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Winter</label>
+            <language>en</language>
+            <name>x_394977_cm_car</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 17:11:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f89777a07262010b69cfa9e7c1ed0ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 17:11:22</sys_updated_on>
+            <value>winter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tire</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Summer</label>
+            <language>en</language>
+            <name>x_394977_cm_car</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 17:11:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f389777a07262010b69cfa9e7c1ed0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 17:11:22</sys_updated_on>
+            <value>summer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tire</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All Season</label>
+            <language>en</language>
+            <name>x_394977_cm_car</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 17:11:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7789777a07262010b69cfa9e7c1ed0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 17:11:22</sys_updated_on>
+            <value>all_season</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

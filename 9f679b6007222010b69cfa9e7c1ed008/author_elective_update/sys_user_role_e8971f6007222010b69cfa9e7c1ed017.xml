@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>The person who can use CM ( car management ) application </description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_394977_cm.cm.app_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>cm.app_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-22 14:56:32</sys_created_on>
+        <sys_id>e8971f6007222010b69cfa9e7c1ed017</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_394977_cm.cm.app_user</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_update_name>sys_user_role_e8971f6007222010b69cfa9e7c1ed017</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:49:10</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CM">9f679b6007222010b69cfa9e7c1ed008</application>
+        <file_path/>
+        <instance_id>1948b8c6db5f001852cec597059619b7</instance_id>
+        <instance_name>dev102006</instance_name>
+        <name>sys_user_role_e8971f6007222010b69cfa9e7c1ed017</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>The person who can use CM ( car management ) application </description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_394977_cm.cm.app_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>cm.app_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-22 14:56:32</sys_created_on><sys_id>e8971f6007222010b69cfa9e7c1ed017</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_394977_cm.cm.app_user</sys_name><sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package><sys_policy/><sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope><sys_update_name>sys_user_role_e8971f6007222010b69cfa9e7c1ed017</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-01 18:49:10</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>690874977</payload_hash>
+        <record_name>x_394977_cm.cm.app_user</record_name>
+        <reverted_from/>
+        <source>ad8275d107ea6010b69cfa9e7c1ed0a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 18:49:10</sys_created_on>
+        <sys_id>e4ff840b07662010b69cfa9e7c1ed065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ef1f6ec60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:49:10</sys_updated_on>
+        <type>Role</type>
+        <update_guid>60ff840bfa6620103415cee501ee1065</update_guid>
+        <update_guid_history>60ff840bfa6620103415cee501ee1065:690874977,26b7ed5977aa6010cd61243e3be748bc:-5216557,78971f608422201043f68beb4d113d1c:-1140346516</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_394977_cm.cm.app_user">1ac0dc0b07662010b69cfa9e7c1ed069</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 18:52:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>10f54a8e24f545b685f8cbf808580d64</sys_id>
+        <sys_metadata>e8971f6007222010b69cfa9e7c1ed017</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_394977_cm.cm.app_user</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_scope_delete display_value="">1519495a0973465ca76b73d6651c62a9</sys_scope_delete>
+        <sys_update_name>sys_user_role_e8971f6007222010b69cfa9e7c1ed017</sys_update_name>
+        <sys_update_version display_value="sys_user_role_e8971f6007222010b69cfa9e7c1ed017">e4ff840b07662010b69cfa9e7c1ed065</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:52:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

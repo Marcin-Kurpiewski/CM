@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Hide section when the user do not have required role. </description>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Technical Dyty only For Mechanic</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	if(g_user.hasRoleExactly('x_394977_cm.technic')==true){
+		g_form.setSectionDisplay('Technical Duty', true);
+	} else {
+		g_form.setSectionDisplay('Technical Duty', false);
+	}
+	
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 19:09:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1dc318cb07662010b69cfa9e7c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Dyty only For Mechanic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_update_name>sys_script_client_1dc318cb07662010b69cfa9e7c1ed008</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 19:09:22</sys_updated_on>
+        <table>x_394977_cm_car</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

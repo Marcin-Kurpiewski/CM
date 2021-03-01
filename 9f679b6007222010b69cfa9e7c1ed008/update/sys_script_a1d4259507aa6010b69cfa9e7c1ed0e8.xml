@@ -3,7 +3,7 @@
         <abort_action>false</abort_action>
         <access>package_private</access>
         <action_delete>false</action_delete>
-        <action_insert>false</action_insert>
+        <action_insert>true</action_insert>
         <action_query>false</action_query>
         <action_update>true</action_update>
         <active>true</active>
@@ -20,7 +20,7 @@
         </filter_condition>
         <is_rest>false</is_rest>
         <message/>
-        <name>cm.events carBookingNeedApproval</name>
+        <name>cm.carBookingNeedApprovalBR</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -32,7 +32,8 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-gs.eventQueue("cm.carBookingNeedApproval", current, current.approver, current.for_user);
+	gs.info('@mk br cm.carBookingNeedApproval ');
+gs.eventQueue("x_394977_cm.carBookingNeedApproval", current, current.for_user, current.find_car);
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -40,17 +41,17 @@ gs.eventQueue("cm.carBookingNeedApproval", current, current.approver, current.fo
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a1d4259507aa6010b69cfa9e7c1ed0e8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>cm.events carBookingNeedApproval</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>cm.carBookingNeedApprovalBR</sys_name>
         <sys_overrides/>
         <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
         <sys_policy/>
         <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
         <sys_update_name>sys_script_a1d4259507aa6010b69cfa9e7c1ed0e8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-24 14:34:41</sys_updated_on>
+        <sys_updated_on>2021-03-01 11:26:30</sys_updated_on>
         <template/>
-        <when>before</when>
+        <when>after</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=a1d4259507aa6010b69cfa9e7c1ed0e8"/>
 </record_update>
