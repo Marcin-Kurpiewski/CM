@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type/>
+        <map_page/>
+        <mobile_title>CM || Car Management</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 18:40:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5fd8c8707662010b69cfa9e7c1ed0ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CM || Car Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_update_name>sys_app_module_d5fd8c8707662010b69cfa9e7c1ed0ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:42:09</sys_updated_on>
+        <timeline_page/>
+        <title>CM || Car Management</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CM">9f679b6007222010b69cfa9e7c1ed008</application>
+        <file_path/>
+        <instance_id>1948b8c6db5f001852cec597059619b7</instance_id>
+        <instance_name>dev102006</instance_name>
+        <name>sys_app_module_d5fd8c8707662010b69cfa9e7c1ed0ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type/><map_page/><mobile_title>CM || Car Management</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-01 18:40:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d5fd8c8707662010b69cfa9e7c1ed0ed</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CM || Car Management</sys_name><sys_overrides/><sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package><sys_policy/><sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope><sys_update_name>sys_app_module_d5fd8c8707662010b69cfa9e7c1ed0ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-01 18:42:09</sys_updated_on><timeline_page/><title>CM || Car Management</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>58626841</payload_hash>
+        <record_name>CM || Car Management</record_name>
+        <reverted_from/>
+        <source>ad8275d107ea6010b69cfa9e7c1ed0a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 18:42:09</sys_created_on>
+        <sys_id>b15e0c8707662010b69cfa9e7c1ed09f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ef1903060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:42:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f95e0c87f56620104de7b4dfe448649e</update_guid>
+        <update_guid_history>f95e0c87f56620104de7b4dfe448649e:58626841,470e8c876a662010cffcd3d1359febf4:1373917960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CM || Car Management">c2fe88c707662010b69cfa9e7c1ed0ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 18:44:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>aa0bfb6ab858472b98b28ff34f5d1dc1</sys_id>
+        <sys_metadata>d5fd8c8707662010b69cfa9e7c1ed0ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CM || Car Management</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_scope_delete display_value="">1519495a0973465ca76b73d6651c62a9</sys_scope_delete>
+        <sys_update_name>sys_app_module_d5fd8c8707662010b69cfa9e7c1ed0ed</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d5fd8c8707662010b69cfa9e7c1ed0ed">b15e0c8707662010b69cfa9e7c1ed09f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 18:44:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

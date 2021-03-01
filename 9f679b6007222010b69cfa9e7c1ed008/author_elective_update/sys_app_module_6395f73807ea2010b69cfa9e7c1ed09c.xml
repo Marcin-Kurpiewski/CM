@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Tmpl X 394977 Cm Car</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_imp_tmpl_x_394977_cm_car</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 11:46:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6395f73807ea2010b69cfa9e7c1ed09c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 394977 Cm Car</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_update_name>sys_app_module_6395f73807ea2010b69cfa9e7c1ed09c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 11:46:18</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Tmpl X 394977 Cm Car</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CM">9f679b6007222010b69cfa9e7c1ed008</application>
+        <file_path/>
+        <instance_id>1948b8c6db5f001852cec597059619b7</instance_id>
+        <instance_name>dev102006</instance_name>
+        <name>sys_app_module_6395f73807ea2010b69cfa9e7c1ed09c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Imp Tmpl X 394977 Cm Car</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_imp_tmpl_x_394977_cm_car</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-23 11:46:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6395f73807ea2010b69cfa9e7c1ed09c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X 394977 Cm Car</sys_name><sys_overrides/><sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package><sys_policy/><sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope><sys_update_name>sys_app_module_6395f73807ea2010b69cfa9e7c1ed09c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-23 11:46:18</sys_updated_on><timeline_page/><title>Imp Tmpl X 394977 Cm Car</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2090383000</payload_hash>
+        <record_name>Imp Tmpl X 394977 Cm Car</record_name>
+        <reverted_from/>
+        <source>b8e8172407222010b69cfa9e7c1ed0aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 11:46:18</sys_created_on>
+        <sys_id>ef95f73807ea2010b69cfa9e7c1ed09e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ceb620240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 11:46:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2b95f7384fea2010010051e8b7c6f29e</update_guid>
+        <update_guid_history>2b95f7384fea2010010051e8b7c6f29e:2090383000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Imp Tmpl X 394977 Cm Car">a44a8c89072e2010b69cfa9e7c1ed080</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 13:16:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>37ef6ae12e374b6dbc70912edd51e129</sys_id>
+        <sys_metadata>6395f73807ea2010b69cfa9e7c1ed09c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 394977 Cm Car</sys_name>
+        <sys_package display_value="CM" source="x_394977_cm">9f679b6007222010b69cfa9e7c1ed008</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CM">9f679b6007222010b69cfa9e7c1ed008</sys_scope>
+        <sys_scope_delete display_value="">1519495a0973465ca76b73d6651c62a9</sys_scope_delete>
+        <sys_update_name>sys_app_module_6395f73807ea2010b69cfa9e7c1ed09c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_6395f73807ea2010b69cfa9e7c1ed09c">ef95f73807ea2010b69cfa9e7c1ed09e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 13:16:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
